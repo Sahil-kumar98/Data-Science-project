@@ -1,1 +1,13 @@
+This file contains the Happiness Score for 153 countries along with the following factors used to explain the score
+.GDP per capita
+.Healthy Life Expectancy
+.Social support
+.Freedom to make life choices
+.Generosity
+.Corruption Perception
 
+Data is imported from kaggeles :  https://www.kaggle.com/mathurinache/world-happiness-report
+
+There is some generic F&Q section reference:   https://worldhappiness.report/faq/
+
+some other reference:  https://happiness-report.s3.amazonaws.com/2021/Appendix1WHR2021C2.pdf
