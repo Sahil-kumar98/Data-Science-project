@@ -1,1 +1,5 @@
-
+I used python language to analysis and imported following libraries 
+.Numpy - It is used for numerical calculation
+.Pandas - It is used to clean and manipuate data 
+.Seaborn - It is used to visualize the dataset
+.Matplotlib - It is used to visualize the data 
