@@ -1,0 +1,7 @@
+I used 100% python language and library names are following :
+  pandas : it is used for data cleaning purpose and manipulation.
+  Numpy : it is used for Numerical calculation.
+  matplotlib : this library is used for data visualization
+  seaborn : this is used for data visualization,it is better to use sometime for better visualization than matplotlib
+  scipy : this module i used for some statistical package
+  sklearn : this library is used to apply machine learning model.
