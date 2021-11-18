@@ -5,6 +5,9 @@ KAJAL RAJPUT, M.Sc. Economics, IIT Roorkee (literature review and collecting Dat
 ABHAY SONKER, M.Sc. Economics, IIT Roorkee ( Report writing, Data collection) 
 SAHIL KUMAR, M.Sc. Economics, IIT Roorkee  ( Research design, Data Analysis) 
 
+purpose of this project To study about the benefits and limitations of mobile banking, understand what are the most convincing features that lead a person to use mobile banking, what type of concerns people have who don't use mobile banking.
+what are the socio factors(like education, age ) affect people group to use mobile banking.
+
 used python libraries for analysis are :
 pandas,numpy, seaborn, matplotlib and regex.
  
