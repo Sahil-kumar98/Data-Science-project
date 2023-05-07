@@ -1,1 +1,8 @@
 
+USed daat from US firms historical accounting details data from the Compustat (WRDS) database from the financial year 2001   to 2016.
+having 109 fileds .data was so uncleaned , handle missing data by different methodlogy like fill by average value , by categorical average accordingly.
+drived 11 featues(financial ratio) from row financial value. these all features selection was based on literature review in finance and accounting research have done in past and self data driven analysis
+analysised firm performance based on these features by exploratory data analysis and applied ML model to find insight and factors that affect firm's performance.
+Attaching MSc_project_sahil.pdf to get detail finding from analysis. it is my MSc thesis in Msc Economics IIT Roorkee.
+Attaching PPT_MSc_project.pptx , presenting finding in crisp information.
+  
